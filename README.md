@@ -22,7 +22,7 @@
  Projects
 
 --> Wumpus World Game
-A Python game built using Pygame.
+A Python game built using HTML and CSS.
 
 🔗 Repository:
 https://github.com/yourusername/wumpus-world
