@@ -33,7 +33,7 @@ Performed security testing on DVWA and documented vulnerabilities.
 🔗 Repository:
 https://[github.com/yourusername/dvwa-project](https://github.com/ANUJ1359/dvwa-web-security-assessment)
 
---? OSINT digital Footprint Analysis
+--> OSINT digital Footprint Analysis
 Performed an OSINT-based cybersecurity assessment by analyzing an organization's digital footprint, identifying security risks, and proposing mitigation strategies.
 
 🔗 Repository:
