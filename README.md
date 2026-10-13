@@ -8,7 +8,7 @@ I use GitHub to document my learning journey, showcase my projects, and share pr
 
 ---
 
-###👨‍💻 About Me
+###About Me
 
 - 🎓 BCA student exploring the world of technology.
 - 🔐 Interested in Cybersecurity, Ethical Hacking, and Vulnerability Assessment.
