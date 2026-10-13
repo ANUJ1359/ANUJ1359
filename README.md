@@ -8,7 +8,7 @@ I use GitHub to document my learning journey, showcase my projects, and share pr
 
 ---
 
-###About Me
+About Me
 
 - 🎓 BCA student exploring the world of technology.
 - 🔐 Interested in Cybersecurity, Ethical Hacking, and Vulnerability Assessment.
@@ -19,7 +19,7 @@ I use GitHub to document my learning journey, showcase my projects, and share pr
 
 ---
 
-###🛠️ Technical Skills
+🛠️ Technical Skills
 
 Programming: Python, Java, C
 Web Development: HTML, CSS, JavaScript
@@ -30,7 +30,7 @@ AI: Generative AI, Prompt Engineering
 
 ---
 
-###🚀 My Projects
+🚀 My Projects
 
 🔹 1. TracePilot — REST API Automated Testing System
 
@@ -83,7 +83,7 @@ Technology: Python
 
 ---
 
-###📜 Certifications & Learning
+📜 Certifications & Learning
 
 - Bug Bounty Hunt 101 — DevTown cybersecurity program; hands-on web application vulnerability assessment using DVWA.
 - Prompt Like a Pro — Master Generative AI with Confidence — DevTown bootcamp focused on prompt engineering.
@@ -102,7 +102,7 @@ Technology: Python
 
 ---
 
-###📫 Connect With Me
+📫 Connect With Me
 
 - GitHub: "ANUJ1359" (https://github.com/ANUJ1359)
 - LinkedIn: "Anuj DC" (https://www.linkedin.com/in/anuj-dc-1359dec/)
